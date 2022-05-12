@@ -6,4 +6,4 @@ https://drive.google.com/file/d/1xnsXc3Hf0EKkuNv0hIHjjFU5OVTWtf2p/view?usp=shari
 
 The jar file couldn't be uploaded directly to GitHub due to its large size. 
 
-The source code of this game is not available for the public viewers since this was an academic project. However, source code can be shared if legitimate reasons are demonstrated.
+The source code of this game is not available for the public viewers since this was an academic project. However, source code can be shared if legitimate reasons are shown.
